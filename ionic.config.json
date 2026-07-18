@@ -1,0 +1,7 @@
+{
+  "name": "happylifeinsurancetech",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
